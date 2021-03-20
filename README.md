@@ -1,3 +1,3 @@
 # Python-ML-Bootcamp
 
-This repository contains the task I performed while attending a bootcamp related to Python and Machine Learning with ShapeAI
+This Bootcamp conducted by ShapeAI covered the basic concepts under Python and Machine Learning. It ended with a task that required us to apply one of the Machine Learning Algorithms.
